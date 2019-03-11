@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4574cdf-496f-422d-a461-fd88e5543d78" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/vue-basic/04 day_vue/server/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/04 day_vue/server/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/.bin/acorn.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/.bin/acorn.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/.bin/escodegen.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/.bin/escodegen.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/.bin/esgenerate.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/.bin/esgenerate.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/.bin/esparse.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/.bin/esparse.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/.bin/esvalidate.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/.bin/esvalidate.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/.bin/he.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/.bin/he.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/.bin/html-minifier.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/.bin/html-minifier.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/.bin/uglifyjs.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/.bin/uglifyjs.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/bignumber.js/LICENCE" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/bignumber.js/LICENCE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/bignumber.js/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/bignumber.js/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/bignumber.js/bignumber.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/bignumber.js/bignumber.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/bignumber.js/bignumber.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/bignumber.js/bignumber.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/bignumber.js/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/bignumber.js/bower.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/bignumber.js/doc/API.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/bignumber.js/doc/API.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/captchapng2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/captchapng2/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/captchapng2/examples/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/captchapng2/examples/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/color-name/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/color-name/.npmignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/color-name/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/color-name/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/color-name/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/color-name/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/color-name/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/color-name/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/color-name/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/04 day_vue/server/node_modules/color-name/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-basic/04 day_vue/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/04 day_vue/server/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-basic/05_day_vue/01_module/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/05_day_vue/01_module/build.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-basic/05_day_vue/03_webpack_config/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/05_day_vue/03_webpack_config/build.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-basic/05_day_vue/04_css_loader/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/05_day_vue/04_css_loader/build.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-basic/07 day_vue/server/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/07 day_vue/server/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-basic/07 day_vue/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/07 day_vue/server/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-basic/38课 Vue第六天-webpack+commonsChunk+ensure的使用（9.25）/11_commonChunk/dist/vendor.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/38课 Vue第六天-webpack+commonsChunk+ensure的使用（9.25）/11_commonChunk/dist/vendor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-basic/38课 Vue第六天-webpack+commonsChunk+ensure的使用（9.25）/12_commonChunk_deep/dist/vendor.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/38课 Vue第六天-webpack+commonsChunk+ensure的使用（9.25）/12_commonChunk_deep/dist/vendor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-basic/38课 Vue第六天-webpack+commonsChunk+ensure的使用（9.25）/13_ensure/dist/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-basic/38课 Vue第六天-webpack+commonsChunk+ensure的使用（9.25）/13_ensure/dist/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -50,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -264,20 +234,6 @@
               <item name="vue-learn" type="462c0819:PsiDirectoryNode" />
               <item name="vue-basic" type="462c0819:PsiDirectoryNode" />
               <item name="05_day_vue" type="462c0819:PsiDirectoryNode" />
-              <item name="00_拦截" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vue-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="vue-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="05_day_vue" type="462c0819:PsiDirectoryNode" />
-              <item name="01_module" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vue-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="vue-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="05_day_vue" type="462c0819:PsiDirectoryNode" />
               <item name="02_module_deep" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -293,40 +249,6 @@
               <item name="vue-basic" type="462c0819:PsiDirectoryNode" />
               <item name="05_day_vue" type="462c0819:PsiDirectoryNode" />
               <item name="04_css_loader" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vue-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="vue-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="05_day_vue" type="462c0819:PsiDirectoryNode" />
-              <item name="05_less_loader" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vue-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="vue-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="05_day_vue" type="462c0819:PsiDirectoryNode" />
-              <item name="05_less_loader" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vue-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="vue-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="05_day_vue" type="462c0819:PsiDirectoryNode" />
-              <item name="06_html" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vue-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="vue-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="07 day_vue" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vue-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="vue-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="38课 Vue第六天-webpack+commonsChunk+ensure的使用（9.25）" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -363,7 +285,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552316876065</updated>
-      <workItem from="1552316877376" duration="725000" />
+      <workItem from="1552316877376" duration="1408000" />
     </task>
     <task id="LOCAL-00001" summary="vue-basic">
       <created>1552317744722</created>
@@ -376,10 +298,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="725000" />
+    <option name="totallyTimeSpent" value="1408000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1417" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24970461" />
@@ -389,7 +312,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32954547" />
+      <window_info anchor="bottom" id="Terminal" weight="0.6454545" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -408,7 +331,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="vue-basic" />
     <option name="LAST_COMMIT_MESSAGE" value="vue-basic" />
@@ -417,7 +339,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
